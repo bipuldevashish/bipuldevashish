@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building Automated Garage App.<br>💬 Ask me about Android or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fvrt timepass: Listening to music and playing games.
+🔭 I’m currently building Automated Garage App.<br>💬 Ask me about Android or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fvrt timepass: Listening to music and playing games.
 
 
 ## 🌐 Socials:
